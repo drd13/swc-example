@@ -1,0 +1,1 @@
+git log shows the history of every single commit done to the project
