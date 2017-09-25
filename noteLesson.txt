@@ -1,2 +1,4 @@
 git log gives you the history of commit
+git diff hash #gives you the differences between a commit and the current working directory
+git diff HEAD^ #git diff with head but the ^ means one commit before so git diff with the commit before the head(current commit)
 Portico moodle common timetable
